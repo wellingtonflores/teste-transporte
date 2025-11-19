@@ -35,7 +35,6 @@
 <head>
     <meta charset="UTF-8">
 
-    <!-- Garante que o layout fique responsivo em telas pequenas -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>Consulta CEP</title>
